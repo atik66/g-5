@@ -34,6 +34,8 @@ int main()
    }
 
 double l=mn,r=mx,mid;
+ 
+ //this chnage
 
 
 while(l<=r){
